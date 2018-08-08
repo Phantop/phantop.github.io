@@ -1,7 +1,5 @@
 # Awesome Linux Software
 
-![Tux](img/tux.png)
-
 🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
 <br>
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
