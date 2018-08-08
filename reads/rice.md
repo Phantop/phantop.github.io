@@ -1,5 +1,4 @@
 ---
-layout: resources
 title: "list o' resources"
 description: 'Ricing resources for Linux, Mac and Windows.'
 ---
