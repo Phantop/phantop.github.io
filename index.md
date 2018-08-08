@@ -4,6 +4,6 @@
 
 [linux programs](reads/linux-software)
 
-[ricing](reads/rice)
+[ricing](reads/ricing)
 
 [other resources](reads/zachs-resources)
