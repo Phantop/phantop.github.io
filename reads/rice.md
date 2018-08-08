@@ -1,10 +1,3 @@
----
-title: "list o' resources"
-description: 'Ricing resources for Linux, Mac and Windows.'
----
-
-[Pull requests](https://github.com/RizonRice/rizonrice.github.io/edit/master/resources.md) for contributions are more than welcome.
-
 # Table of contents
 - [A quick summary](#how)
 - [Window managers](#window-managers)
