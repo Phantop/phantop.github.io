@@ -1,115 +1,115 @@
-<dl>
 
-<dt>
+
+
 
 ### Bookmarks for Bryce
 
-</dt>
 
-<dd>Blood and tears were shed for these links, use them wisely
 
-<dl>
+Blood and tears were shed for these links, use them wisely
 
-<dt>
+
+
+
 
 ## Video Making Stuff
 
-<dl>
 
-<dt>
+
+
 
 ### Video Stock Footage
 
-<dl>
 
-<dt>[movietools.info](http://www.movietools.info/video-background-loops/news-a-studio-loops/)</dt>
 
-<dt>[Beachfront B-Roll: Free Stock Footage - YouTube](https://www.youtube.com/channel/UCk0ICGtmgO3FvvjxD4tasdg)</dt>
+[movietools.info](http://www.movietools.info/video-background-loops/news-a-studio-loops/)
 
-<dt>[19 Websites to Download Free Stock Video Intros & Footage](http://www.hongkiat.com/blog/download-free-stock-video-intros/)</dt>
+[Beachfront B-Roll: Free Stock Footage - YouTube](https://www.youtube.com/channel/UCk0ICGtmgO3FvvjxD4tasdg)
 
-<dt>[Neo's Clip Archive](http://thecliparchive.com/index.php?category=Movietools)</dt>
+[19 Websites to Download Free Stock Video Intros & Footage](http://www.hongkiat.com/blog/download-free-stock-video-intros/)
 
-<dt>[Free Video Footage | Pond5](http://www.pond5.com/stock-video-footage/1/laugh.html?free=1)</dt>
+[Neo's Clip Archive](http://thecliparchive.com/index.php?category=Movietools)
 
-<dt>[Healther's Animations - Vintage Gifs](http://heathersanimations.com/elderly1.html)</dt>
+[Free Video Footage | Pond5](http://www.pond5.com/stock-video-footage/1/laugh.html?free=1)
 
-<dt>[How to download free HQ stock images & videos - YouTube](https://www.youtube.com/watch?v=-iRan9YrkF8)</dt>
+[Healther's Animations - Vintage Gifs](http://heathersanimations.com/elderly1.html)
 
-<dt>[Unsplash | Free High-Resolution Photos](https://unsplash.com/)</dt>
+[How to download free HQ stock images & videos - YouTube](https://www.youtube.com/watch?v=-iRan9YrkF8)
 
-<dt>[Farm Security Administration Collection. - NYPL Digital Collections](http://digitalcollections.nypl.org/collections/farm-security-administration-collection?hspace=335995#/?tab=about)</dt>
+[Unsplash | Free High-Resolution Photos](https://unsplash.com/)
 
-</dl>
+[Farm Security Administration Collection. - NYPL Digital Collections](http://digitalcollections.nypl.org/collections/farm-security-administration-collection?hspace=335995#/?tab=about)
 
-</dt>
 
-<dt>
+
+
+
+
 
 ### Sound
 
-<dl>
 
-<dt>[Royalty Free Music](http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006)</dt>
 
-<dt>[Bensound | Royalty Free Music | Rock](http://www.bensound.com/royalty-free-music/rock)</dt>
+[Royalty Free Music](http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400006)
 
-<dt>[10 Royalty Free Music Sites Every Online Video Creator Should Know | SocialTimes](http://www.adweek.com/socialtimes/royalty-free-music/38475)</dt>
+[Bensound | Royalty Free Music | Rock](http://www.bensound.com/royalty-free-music/rock)
 
-<dt>[Free Music Archive: Chris Zabriskie](http://freemusicarchive.org/music/Chris_Zabriskie/)</dt>
+[10 Royalty Free Music Sites Every Online Video Creator Should Know | SocialTimes](http://www.adweek.com/socialtimes/royalty-free-music/38475)
 
-<dt>[Purple Planet Royalty Free Music](http://www.purple-planet.com/)</dt>
+[Free Music Archive: Chris Zabriskie](http://freemusicarchive.org/music/Chris_Zabriskie/)
 
-<dt>[How to Develop a Confident, Attractive Voice](http://www.nicknotas.com/blog/how-to-develop-a-confident-attractive-voice/)</dt>
+[Purple Planet Royalty Free Music](http://www.purple-planet.com/)
 
-<dt>[Royalty Free Stephen Burns Music](http://www.freesoundtrackmusic.com/music_listing_stephenburns.html)</dt>
+[How to Develop a Confident, Attractive Voice](http://www.nicknotas.com/blog/how-to-develop-a-confident-attractive-voice/)
 
-<dt>[Free Romantic Production Music Love Is- Free Stock Music](http://www.freestockmusic.com/)</dt>
+[Royalty Free Stephen Burns Music](http://www.freesoundtrackmusic.com/music_listing_stephenburns.html)
 
-<dt>[Public Domain Music Downloads](http://freepd.com/download.html)</dt>
+[Free Romantic Production Music Love Is- Free Stock Music](http://www.freestockmusic.com/)
 
-<dt>[NoCopyrightSounds - YouTube](https://www.youtube.com/watch?v=FjNdYp2gXRY)</dt>
+[Public Domain Music Downloads](http://freepd.com/download.html)
 
-<dt>[CMA Músic - YouTube](https://www.youtube.com/channel/UCd1kn5Zsqtjbbfb38b8VBfQ)</dt>
+[NoCopyrightSounds - YouTube](https://www.youtube.com/watch?v=FjNdYp2gXRY)
 
-<dt>[majesticdnb - YouTube](https://www.youtube.com/user/majesticdnb/featured)</dt>
+[CMA Músic - YouTube](https://www.youtube.com/channel/UCd1kn5Zsqtjbbfb38b8VBfQ)
 
-<dt>[LDUKMusic - YouTube](https://www.youtube.com/channel/UCvCJp9BRmLq0KDOcwfGAKEw)</dt>
+[majesticdnb - YouTube](https://www.youtube.com/user/majesticdnb/featured)
 
-<dt>[Loops >> Ambient >> Electronica - Flash Kit](http://www.flashkit.com/loops/Ambient/Electronica)</dt>
+[LDUKMusic - YouTube](https://www.youtube.com/channel/UCvCJp9BRmLq0KDOcwfGAKEw)
 
-</dl>
+[Loops >> Ambient >> Electronica - Flash Kit](http://www.flashkit.com/loops/Ambient/Electronica)
 
-</dt>
 
-<dt>
+
+
+
+
 
 ### Style
 
-<dl>
 
-<dt>[- Top 100 Free Font Downloads](http://font.downloadatoz.com/hot-fonts.html)</dt>
 
-<dt>[Free PSD Goodies and Mockups for Designers](http://freegoodiesfordesigners.blogspot.se/)</dt>
+[- Top 100 Free Font Downloads](http://font.downloadatoz.com/hot-fonts.html)
 
-<dt>[The 100 best free fonts | Typography | Creative Bloq](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)</dt>
+[Free PSD Goodies and Mockups for Designers](http://freegoodiesfordesigners.blogspot.se/)
 
-<dt>[Handwriting font creator](http://www.myscriptfont.com/)</dt>
+[The 100 best free fonts | Typography | Creative Bloq](http://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380)
 
-<dt>[don't be this guy](http://i.imgur.com/bJW46Ac.png)</dt>
+[Handwriting font creator](http://www.myscriptfont.com/)
 
-</dl>
+[don't be this guy](http://i.imgur.com/bJW46Ac.png)
 
-</dt>
 
-<dt>[Makerbook - The best free resources for creatives.](http://makerbook.net/)</dt>
 
-</dl>
 
-</dt>
 
-</dl>
+[Makerbook - The best free resources for creatives.](http://makerbook.net/)
 
-</dd>
 
-</dl>
+
+
+
+
+
+
+
+
