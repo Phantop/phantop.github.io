@@ -2,8 +2,8 @@
 
 [cool dinosaurs](trex/index.html)
 
-[linux programs](reads/linuxSoft)
+[linux programs](reads/linux-software)
 
 [ricing](reads/rice)
 
-[other resources](reads/zach's-resources.html)
+[other resources](reads/zachs-resources)
