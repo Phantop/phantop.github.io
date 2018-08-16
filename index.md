@@ -6,4 +6,6 @@
 
 [ricing](reads/ricing)
 
+[tinywm](reads/tinywm)
+
 [other resources](reads/zachs-resources)
