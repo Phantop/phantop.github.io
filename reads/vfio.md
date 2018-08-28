@@ -5,3 +5,5 @@
 [LookingGlass](https://www.reddit.com/r/linux/comments/8ay0ya/question_for_the_grey_beards_here_which_linux/dx2jhud/)
 
 [gpu isolation issue](https://www.reddit.com/r/VFIO/comments/6kwsv0/gpu_wont_isolate/)
+
+[gamepad](https://www.reddit.com/r/VFIO/comments/878ymp/gamepad_support_in_qemu/)
