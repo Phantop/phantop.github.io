@@ -8,4 +8,6 @@
 
 [tinywm](reads/tinywm)
 
-[other resources](reads/zachs-resources)
+[zach resources](reads/zachs-resources)
+
+[vfio](reads/vfio)
