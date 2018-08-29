@@ -15,3 +15,7 @@
 [Emulation Basics](http://www.codeslinger.co.uk/pages/basics.html)
 
 [Emulator 101](http://emulator101.com/)
+
+## Terminal
+
+[Learn Regex](https://github.com/zeeshanu/learn-regex)
