@@ -30,4 +30,4 @@
 
 [motd stats](https://www.reddit.com/r/DataHoarder/comments/8h216w/was_encouraged_to_post_here_this_is_my_motd/)
 
-[metsatron dotfiles (haiku/be-os like; with stow)](https://gitlab.com/metsatron/dotfiles/tree/master)
+[metsatron dotfiles - haiku/be-os like - with stow)](https://gitlab.com/metsatron/dotfiles/tree/master)
