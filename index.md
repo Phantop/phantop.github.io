@@ -15,3 +15,6 @@
 [linux programs](reads/linux-software)
 
 [zach resources](reads/zachs-resources)
+
+[programming guides](reads/guides)
+
