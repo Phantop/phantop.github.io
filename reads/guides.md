@@ -23,3 +23,5 @@
 ## FOSS/Privacy
 
 [Attedz's Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide/blob/master/README.md)
+
+[Labotimizing GNOME](https://eklitzke.org/lobotomizing-gnome)
