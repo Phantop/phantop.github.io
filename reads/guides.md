@@ -19,3 +19,7 @@
 ## Terminal
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
+
+## FOSS/Privacy
+
+[Attedz's Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide/blob/master/README.md)
