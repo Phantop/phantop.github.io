@@ -4,8 +4,6 @@
 
 [food](reads/food)
 
-[vfio](reads/vfio)
-
 [ricing](reads/ricing)
 
 [tinywm](reads/tinywm)

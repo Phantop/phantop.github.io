@@ -1,5 +1,9 @@
 # Various programming guides to do someday
 
+## Ricing
+
+[list o' resources](https://rizonrice.github.io/resources)
+
 ## 3D Graphics
 
 [Learn OpenGL](https://learnopengl.com/)
@@ -7,6 +11,10 @@
 [Learn Vulkan](https://learnvulkan.com/)
 
 [Vulkan Tutorial](https://vulkan-tutorial.com/)
+
+## Operating Systems
+
+[os-tutorial](https://github.com/cfenollosa/os-tutorial)
 
 ## Emulation
 
