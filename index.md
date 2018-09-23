@@ -4,11 +4,11 @@
 
 [food](reads/food)
 
-[tinywm](reads/tinywm)
+[tinywm](http://incise.org/tinywm.html)
 
 [unixporn](reads/unixporn)
 
-[linux programs](reads/linux-software)
+[linux programs](https://luongvo209.gitlab.io/Awesome-Linux-Software/)
 
 [zach resources](reads/zachs-resources)
 
