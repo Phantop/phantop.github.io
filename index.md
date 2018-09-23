@@ -4,8 +4,6 @@
 
 [food](reads/food)
 
-[ricing](reads/ricing)
-
 [tinywm](reads/tinywm)
 
 [unixporn](reads/unixporn)
