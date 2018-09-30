@@ -9,3 +9,5 @@
 [tacos](https://www.reddit.com/r/FoodPorn/comments/9ahg6d/oc_homemade_black_bean_and_roasted_corn_tacos/e4vovvg/)
 
 [pimento cheeseburger](https://ohsweetbasil.com/southern-pimento-cheeseburger-recipe/print/)
+
+[cream pasta](https://www.reddit.com/r/FoodPorn/comments/9hlktc/ovenbaked_cream_pasta_with_mushrooms_and/e6cx10w/)
