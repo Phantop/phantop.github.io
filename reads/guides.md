@@ -16,6 +16,8 @@
 
 [os-tutorial](https://github.com/cfenollosa/os-tutorial)
 
+[server setup](https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
+
 ## Emulation
 
 [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
