@@ -18,6 +18,8 @@
 
 [wmutils](https://www.reddit.com/r/unixporn/comments/8fv68v/wmutils_risc_ricing/)
 
+[z-brah wmutils](https://www.reddit.com/r/unixporn/comments/3b42zj/people_using_wmutils_how_do_you_use_it/csj8iq4/)
+
 [polybar popout](https://www.reddit.com/r/unixporn/comments/8d2wpx/bspwm_keeping_my_frequently_used_terminal_apps/)
 
 [void ozen](https://www.reddit.com/r/unixporn/comments/88s0wb/openbox_finally_decided_to_leave_full_des_behind/)
