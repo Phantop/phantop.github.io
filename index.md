@@ -12,5 +12,5 @@
 
 [zach resources](reads/zachs-resources)
 
-[programming guides](reads/guides)
+[guides](reads/guides)
 
