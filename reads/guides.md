@@ -1,4 +1,4 @@
-# Various programming guides to do someday
+# Various tech guides to do someday
 
 ## Ricing
 
@@ -29,6 +29,12 @@
 ## Terminal
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
+
+# Qemu
+
+[Drew Devault's Getting Started](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
+
+[Gentoo Qemu Options List](https://wiki.gentoo.org/wiki/QEMU/Options)
 
 ## FOSS/Privacy
 
