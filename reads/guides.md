@@ -4,6 +4,8 @@
 
 [list o' resources](https://rizonrice.github.io/resources)
 
+[tinywm](http://incise.org/tinywm.html)
+
 ## 3D Graphics
 
 [Learn OpenGL](https://learnopengl.com/)
@@ -30,11 +32,21 @@
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
 
-# Qemu
+## Qemu
 
 [Drew Devault's Getting Started](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
 
 [Gentoo Qemu Options List](https://wiki.gentoo.org/wiki/QEMU/Options)
+
+### VFIO
+
+[LookingGlass](https://www.reddit.com/r/linux/comments/8ay0ya/question_for_the_grey_beards_here_which_linux/dx2jhud/)
+
+[one gpu pass](https://www.reddit.com/r/VFIO/comments/982434/i_am_creating_a_guide_for_gpu_passthrough_with/)
+
+[gpu isolation issue](https://www.reddit.com/r/VFIO/comments/6kwsv0/gpu_wont_isolate/)
+
+[gamepad](https://www.reddit.com/r/VFIO/comments/878ymp/gamepad_support_in_qemu/)
 
 ## FOSS/Privacy
 
