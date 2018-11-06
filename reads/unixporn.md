@@ -35,3 +35,5 @@
 [motd stats bash](https://www.reddit.com/r/unixporn/comments/9g94md/motd_motd_on_my_ubuntu_home_server/)
 
 [metsatron dotfiles - haiku/be-os like - with stow](https://gitlab.com/metsatron/dotfiles/tree/master)
+
+[nice dark blue](https://reddit.com/r/unixporn/comments/9tcpep/i3_drifting/)
