@@ -6,6 +6,8 @@
 
 [tinywm](http://incise.org/tinywm.html)
 
+[stow](https://stevenrbaker.com/tech/managing-dotfiles-with-gnu-stow.html)
+
 ## 3D Graphics
 
 [Learn OpenGL](https://learnopengl.com/)
@@ -19,6 +21,8 @@
 [os-tutorial](https://github.com/cfenollosa/os-tutorial)
 
 [server setup](https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
+
+[driver and kernel dev books](http://jdebp.eu/FGA/operating-system-books.html)
 
 ## Emulation
 
