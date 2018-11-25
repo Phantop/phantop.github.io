@@ -24,6 +24,8 @@
 
 [driver and kernel dev books](http://jdebp.eu/FGA/operating-system-books.html)
 
+[multiple live ISOs](https://github.com/probonopd/SystemImageKit)
+
 ## Emulation
 
 [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
