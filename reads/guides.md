@@ -26,6 +26,8 @@
 
 [multiple live ISOs](https://github.com/probonopd/SystemImageKit)
 
+[linux programs](https://luongvo209.gitlab.io/Awesome-Linux-Software/)
+
 ## Emulation
 
 [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
