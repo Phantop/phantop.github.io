@@ -6,6 +6,8 @@
 
 [food](reads/food)
 
+[posture](reads/posture)
+
 [unixporn](reads/unixporn)
 
 [zach resources](reads/zachs-resources)
