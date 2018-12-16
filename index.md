@@ -1,6 +1,6 @@
 # Some pages with some stuff in them:
 
-[cool dinosaurs](trex/index.html)
+[trex](trex/index.html)
 
 [guides](reads/guides)
 
