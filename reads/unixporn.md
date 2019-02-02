@@ -37,3 +37,5 @@
 [metsatron dotfiles - haiku/be-os like - with stow](https://gitlab.com/metsatron/dotfiles/tree/master)
 
 [nice dark blue](https://reddit.com/r/unixporn/comments/9tcpep/i3_drifting/)
+
+[bspwm vis](https://reddit.com/r/unixporn/comments/am0m8l/bspwm_gray/<Paste>)
