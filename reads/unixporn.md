@@ -38,4 +38,8 @@
 
 [nice dark blue](https://reddit.com/r/unixporn/comments/9tcpep/i3_drifting/)
 
-[bspwm vis](https://reddit.com/r/unixporn/comments/am0m8l/bspwm_gray/<Paste>)
+[bspwm vis](https://reddit.com/r/unixporn/comments/am0m8l/bspwm_gray/)
+
+[animated feh wall](https://www.reddit.com/r/unixporn/comments/adxmxb/fvwm_rain/)
+
+[q::shell]([https://reddit.com/r/unixporn/comments/amen5b/qshell_a_rose_by_any_other_name/)
