@@ -58,6 +58,8 @@
 
 [gamepad](https://www.reddit.com/r/VFIO/comments/878ymp/gamepad_support_in_qemu/)
 
+[macOS Tutorial](https://passthroughpo.st/new-and-improved-mac-os-tutorial-part-1-the-basics/)
+
 ## FOSS/Privacy
 
 [Awesome](https://github.com/Igglybuff/awesome-piracy)
@@ -65,3 +67,7 @@
 [Attedz's Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide/blob/master/README.md)
 
 [Labotimizing GNOME](https://eklitzke.org/lobotomizing-gnome)
+
+## Minecraft
+
+[Building Charts](https://imgur.com/a/0J5RoE1)
