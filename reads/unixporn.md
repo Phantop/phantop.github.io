@@ -45,3 +45,5 @@
 [q::shell]([https://reddit.com/r/unixporn/comments/amen5b/qshell_a_rose_by_any_other_name/)
 
 [flashfocus](https://github.com/fennerm/flashfocus)
+
+[terminall](https://reddit.com/r/unixporn/comments/bx11dg/plasma_terminall/)
