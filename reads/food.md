@@ -15,3 +15,5 @@
 [cauliflower tacos](https://minimalistbaker.com/wprm_print/34652)
 
 [katsu sando](https://www.instagram.com/p/Bno8pUoBFNU/)
+
+[perogies](https://www.reddit.com/r/FoodPorn/comments/by8ff7/first_attempt_at_homemade_perogies/eqfso7h/)
