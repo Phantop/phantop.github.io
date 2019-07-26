@@ -8,6 +8,8 @@
 
 [posture](reads/posture)
 
+[quicken](reads/quicken)
+
 [unixporn](reads/unixporn)
 
 [zach resources](reads/zachs-resources)
