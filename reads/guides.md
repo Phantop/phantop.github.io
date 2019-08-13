@@ -16,6 +16,8 @@
 
 [Vulkan Tutorial](https://vulkan-tutorial.com/)
 
+[Limit Framerate](https://gitlab.com/torkel104/libstrangle)
+
 ## Operating Systems
 
 [os-tutorial](https://github.com/cfenollosa/os-tutorial)
