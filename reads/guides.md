@@ -36,6 +36,8 @@
 
 [Emulator 101](http://emulator101.com/)
 
+[Steam API Emulation](https://gitlab.com/Mr_Goldberg/goldberg_emulator)
+
 ## Terminal
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
