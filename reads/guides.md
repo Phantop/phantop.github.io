@@ -40,6 +40,8 @@
 
 [Steam API Emulation](https://gitlab.com/Mr_Goldberg/goldberg_emulator)
 
+[Switch NAND Save Extraction](https://old.reddit.com/r/SwitchHacks/comments/cxdi0o/extract_saves_from_nand_backup/)
+
 ## Terminal
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
