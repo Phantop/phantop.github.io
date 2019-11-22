@@ -6,6 +6,8 @@
 
 [food](reads/food)
 
+[epub](epub/index.html)
+
 [posture](reads/posture)
 
 [quicken](reads/quicken)
