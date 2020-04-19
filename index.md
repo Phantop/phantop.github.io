@@ -15,3 +15,7 @@
 [unixporn](reads/unixporn)
 
 [zach resources](reads/zachs-resources)
+
+[portal](aperturescience/portal)
+
+[portal2](aperturescience/portal2)
