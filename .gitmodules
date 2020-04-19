@@ -1,3 +1,6 @@
 [submodule "epub"]
 	path = epub
 	url = https://github.com/geek1011/ePubViewer
+[submodule "aperturescience"]
+	path = aperturescience
+	url = https://github.com/xBytez/aperturescience.git
