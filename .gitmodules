@@ -4,3 +4,6 @@
 [submodule "aperturescience"]
 	path = aperturescience
 	url = https://github.com/xBytez/aperturescience.git
+[submodule "brstm"]
+	path = brstm
+	url = https://github.com/kenrick95/nikku
