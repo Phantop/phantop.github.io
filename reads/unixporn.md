@@ -42,7 +42,7 @@
 
 [animated feh wall](https://www.reddit.com/r/unixporn/comments/adxmxb/fvwm_rain/)
 
-[q::shell]([https://reddit.com/r/unixporn/comments/amen5b/qshell_a_rose_by_any_other_name/)
+[q::shell](https://reddit.com/r/unixporn/comments/amen5b/qshell_a_rose_by_any_other_name/)
 
 [flashfocus](https://github.com/fennerm/flashfocus)
 
