@@ -10,3 +10,6 @@
 [submodule "startpage"]
 	path = startpage
 	url = https://github.com/deepjyoti30/startpage
+[submodule "keeweb"]
+	path = keeweb
+	url = https://github.com/keeweb/keeweb
