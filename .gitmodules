@@ -7,3 +7,6 @@
 [submodule "brstm"]
 	path = brstm
 	url = https://github.com/kenrick95/nikku
+[submodule "startpage"]
+	path = startpage
+	url = https://github.com/deepjyoti30/startpage
