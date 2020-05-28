@@ -13,3 +13,6 @@
 [submodule "keeweb"]
 	path = keeweb
 	url = https://github.com/keeweb/keeweb
+[submodule "audiomass"]
+	path = audiomass
+	url = https://github.com/pkalogiros/audiomass
