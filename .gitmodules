@@ -16,3 +16,6 @@
 [submodule "audiomass"]
 	path = audiomass
 	url = https://github.com/pkalogiros/audiomass
+[submodule "SSHy"]
+	path = SSHy
+	url = https://github.com/stuicey/SSHy
