@@ -21,3 +21,9 @@
 [portal2](aperturescience/portal2)
 
 [brstm](brstm/index.html)
+
+[audiomass](audiomass/src)
+
+[SSHy](SSHy)
+
+[keeweb](keeweb)
