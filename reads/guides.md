@@ -77,3 +77,9 @@
 ## Minecraft
 
 [Building Charts](https://imgur.com/a/0J5RoE1)
+
+## CS
+
+[Teach Yourself CS](https://teachyourselfcs.com/)
+
+[OSSU](https://github.com/ossu/computer-science)
