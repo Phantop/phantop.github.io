@@ -47,3 +47,5 @@
 [flashfocus](https://github.com/fennerm/flashfocus)
 
 [terminall](https://reddit.com/r/unixporn/comments/bx11dg/plasma_terminall/)
+
+[LukeSmith](https://github.com/LukeSmithxyz)
