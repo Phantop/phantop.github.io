@@ -22,3 +22,6 @@
 [submodule "whereami"]
 	path = whereami
 	url = https://github.com/webdevbrian/whereami
+[submodule "wayland-book"]
+	path = wayland-book
+	url = https://git.sr.ht/~sircmpwn/wayland-book
