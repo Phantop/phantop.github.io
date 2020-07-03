@@ -1,12 +1,12 @@
 # Some pages with some stuff in them:
 
-[trex](trex/index.html)
+[trex](trex)
 
 [guides](reads/guides)
 
 [food](reads/food)
 
-[epub](epub/index.html)
+[epub](epub)
 
 [posture](reads/posture)
 
