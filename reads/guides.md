@@ -66,6 +66,8 @@
 
 [macOS Tutorial](https://passthroughpo.st/new-and-improved-mac-os-tutorial-part-1-the-basics/)
 
+[Solus Tutorials](https://old.reddit.com/r/SolusProject/comments/955osy/vfio_passthrough_quick_reference/)
+
 ## FOSS/Privacy
 
 [Awesome](https://github.com/Igglybuff/awesome-piracy)
@@ -83,3 +85,9 @@
 [Teach Yourself CS](https://teachyourselfcs.com/)
 
 [OSSU](https://github.com/ossu/computer-science)
+
+[Tour of Rust](https://tourofrust.com/)
+
+## Video Editing
+
+[VapourSynth101](https://www.l33tmeatwad.com/vapoursynth101)
