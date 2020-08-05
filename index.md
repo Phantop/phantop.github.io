@@ -24,8 +24,6 @@
 
 [audiomass](audiomass/src)
 
-[SSHy](SSHy)
-
 [keeweb](keeweb)
 
 [source library](source-library)
