@@ -25,3 +25,6 @@
 [submodule "wayland-book"]
 	path = wayland-book
 	url = https://git.sr.ht/~sircmpwn/wayland-book
+[submodule "source-library"]
+	path = source-library
+	url = https://github.com/NB419/source-library
