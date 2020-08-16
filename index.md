@@ -27,3 +27,5 @@
 [keeweb](keeweb)
 
 [source library](source-library)
+
+[write a vm](lc3-vm/docs)
