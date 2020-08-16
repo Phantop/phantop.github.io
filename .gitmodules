@@ -25,3 +25,6 @@
 [submodule "source-library"]
 	path = source-library
 	url = https://github.com/NB419/source-library
+[submodule "lc3-vm"]
+	path = lc3-vm
+	url = https://github.com/justinmeiners/lc3-vm
