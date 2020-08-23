@@ -28,3 +28,9 @@
 [submodule "lc3-vm"]
 	path = lc3-vm
 	url = https://github.com/justinmeiners/lc3-vm
+[submodule "degoogle"]
+	path = degoogle
+	url = https://github.com/tycrek/degoogle
+[submodule "awesome-piracy"]
+	path = awesome-piracy
+	url = https://github.com/Igglybuff/awesome-piracy

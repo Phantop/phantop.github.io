@@ -29,3 +29,7 @@
 [source library](source-library)
 
 [write a vm](lc3-vm/docs)
+
+[degoogle](degoogle/README.md)
+
+[awesome-piracy](awesome-piracy/readme.md)
