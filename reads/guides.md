@@ -70,11 +70,11 @@
 
 ## FOSS/Privacy
 
-[Awesome](https://github.com/Igglybuff/awesome-piracy)
-
 [Attedz's Android Privacy Guide](https://gitlab.com/Attedz/AndroidPrivacyGuide/blob/master/README.md)
 
 [Labotimizing GNOME](https://eklitzke.org/lobotomizing-gnome)
+
+[GrapheneOS](https://grapheneos.org/)
 
 ## Minecraft
 
