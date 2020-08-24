@@ -53,3 +53,5 @@
 [fvwm signals from the acme of usability](https://www.reddit.com/r/UsabilityPorn/comments/i4trnh/fvwm_signals_from_the_acme_of_usability/)
 
 [fancy qute pyconfig](https://gitlab.com/jgkamat/dotfiles/-/tree/master/qutebrowser/.config/qutebrowser/pyconfig)
+
+[firefox one-liner](https://old.reddit.com/r/FirefoxCSS/comments/g0o4sg/ultra_minimal_one_line_userchrome_macos_firefox/)
