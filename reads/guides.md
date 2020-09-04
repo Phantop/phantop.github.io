@@ -88,6 +88,8 @@
 
 [Tour of Rust](https://tourofrust.com/)
 
+[Modern C](https://news.ycombinator.com/item?id=24361469)
+
 ## Video Editing
 
 [VapourSynth101](https://www.l33tmeatwad.com/vapoursynth101)
