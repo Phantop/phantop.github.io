@@ -30,6 +30,8 @@
 
 [linux programs](https://luongvo209.gitlab.io/Awesome-Linux-Software/)
 
+[bash pitfalls and strict-mode](https://news.ycombinator.com/item?id=24401085)
+
 ## Emulation
 
 [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
