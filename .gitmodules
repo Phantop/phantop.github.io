@@ -34,3 +34,6 @@
 [submodule "awesome-piracy"]
 	path = awesome-piracy
 	url = https://github.com/Igglybuff/awesome-piracy
+[submodule "survival"]
+	path = survival
+	url = https://github.com/ligi/SurvivalManual.wiki.git

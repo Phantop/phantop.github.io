@@ -35,3 +35,5 @@
 [awesome-piracy](awesome-piracy/readme.md)
 
 [cemu-undergound software](reads/cemunderground.html)
+
+[survival-manual](survival/Home.md)
