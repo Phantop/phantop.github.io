@@ -37,3 +37,6 @@
 [submodule "survival"]
 	path = survival
 	url = https://github.com/ligi/SurvivalManual.wiki.git
+[submodule "open-source-cs"]
+	path = open-source-cs
+	url = https://github.com/ForrestKnight/open-source-cs
