@@ -44,6 +44,8 @@
 
 [Switch NAND Save Extraction](https://old.reddit.com/r/SwitchHacks/comments/cxdi0o/extract_saves_from_nand_backup/)
 
+[Cheating in single-player Linux games](https://old.reddit.com/r/linux_gaming/comments/gpsp8f/cheating_in_singleplayer_linux_games/)
+
 ## Terminal
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
