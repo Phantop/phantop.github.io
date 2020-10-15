@@ -59,3 +59,5 @@
 [firefox one-liner 2](https://old.reddit.com/r/FirefoxCSS/comments/gi5dym/try_to_create_a_minimal_functional_oneliner_and/)
 
 [rounded bspwm](https://old.reddit.com/r/unixporn/comments/haogs0/bspwm_i_have_spent_too_much_time_on_this/)
+
+[ZoeFiri's dots](https://github.com/ZoeFiri/dots)

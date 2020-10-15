@@ -14,7 +14,17 @@
 
 [unixporn](reads/unixporn)
 
+[reddit](reads/reddit.md)
+
 [zach resources](reads/zachs-resources)
+
+[source library](source-library)
+
+[awesome-piracy](awesome-piracy/readme.md)
+
+[degoogle](degoogle/README.md)
+
+[keeweb](keeweb)
 
 [portal](aperturescience/portal)
 
@@ -24,18 +34,10 @@
 
 [audiomass](audiomass/src)
 
-[keeweb](keeweb)
-
-[source library](source-library)
-
 [write a vm](lc3-vm/docs)
-
-[degoogle](degoogle/README.md)
-
-[awesome-piracy](awesome-piracy/readme.md)
-
-[cemu-undergound software](reads/cemunderground.html)
 
 [survival-manual](survival/Home.md)
 
 [open-source-cs](open-source-cs/README.md)
+
+[cemu-undergound software](reads/cemunderground.html)
