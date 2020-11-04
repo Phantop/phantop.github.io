@@ -39,5 +39,3 @@
 [survival-manual](survival/Home.md)
 
 [open-source-cs](open-source-cs/README.md)
-
-[cemu-undergound software](reads/cemunderground.html)
