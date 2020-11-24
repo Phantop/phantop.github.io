@@ -34,6 +34,8 @@
 
 [syntax highlighting](https://news.ycombinator.com/item?id=23958876)
 
+[year of the linux laptop](https://monadical.com/posts/moving-to-linux-desktop.html)
+
 ## Emulation
 
 [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
@@ -81,6 +83,8 @@
 [Labotimizing GNOME](https://eklitzke.org/lobotomizing-gnome)
 
 [GrapheneOS](https://grapheneos.org/)
+
+[1MB Club](https://1mb.club/)
 
 ## Minecraft
 
