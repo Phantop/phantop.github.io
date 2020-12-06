@@ -28,7 +28,7 @@
 
 [multiple live ISOs](https://github.com/probonopd/SystemImageKit)
 
-[linux programs](https://luongvo209.gitlab.io/Awesome-Linux-Software/)
+[simple key remap](https://github.com/DavRack/skr)
 
 [bash pitfalls and strict-mode](https://news.ycombinator.com/item?id=24401085)
 
