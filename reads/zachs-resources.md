@@ -50,6 +50,8 @@ Blood and tears were shed for these links, use them wisely
 
 [Loops >> Ambient >> Electronica - Flash Kit](http://www.flashkit.com/loops/Ambient/Electronica)
 
+[TypeSense Music Search](https://songs-search.typesense.org/)
+
 ### Style
 
 [Top 100 Free Font Downloads](http://font.downloadatoz.com/hot-fonts.html)
