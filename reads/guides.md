@@ -30,10 +30,6 @@
 
 [simple key remap](https://github.com/DavRack/skr)
 
-[bash pitfalls and strict-mode](https://news.ycombinator.com/item?id=24401085)
-
-[syntax highlighting](https://news.ycombinator.com/item?id=23958876)
-
 [year of the linux laptop](https://monadical.com/posts/moving-to-linux-desktop.html)
 
 ## Emulation
@@ -53,6 +49,12 @@
 ## Terminal
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
+
+[bash pitfalls and strict-mode](https://news.ycombinator.com/item?id=24401085)
+
+[syntax highlighting](https://news.ycombinator.com/item?id=23958876)
+
+[Command Line Interface Guidelines](https://clig.dev/)
 
 ## Qemu
 
@@ -86,9 +88,11 @@
 
 [1MB Club](https://1mb.club/)
 
-## Minecraft
+## Games
 
-[Building Charts](https://imgur.com/a/0J5RoE1)
+[Minecraft Building Charts](https://imgur.com/a/0J5RoE1)
+
+[CS Modding](https://resources.cavestorymoddingcommunity.com/)
 
 ## CS
 
@@ -99,7 +103,3 @@
 [Tour of Rust](https://tourofrust.com/)
 
 [Modern C](https://news.ycombinator.com/item?id=24361469)
-
-## Video Editing
-
-[VapourSynth101](https://www.l33tmeatwad.com/vapoursynth101)

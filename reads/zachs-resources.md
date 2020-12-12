@@ -1,6 +1,9 @@
 # Bookmarks for Bryce
 Blood and tears were shed for these links, use them wisely
 ## Video Making Stuff
+
+[VapourSynth101](https://www.l33tmeatwad.com/vapoursynth101)
+
 ### Video Stock Footage
 [movietools.info](http://www.movietools.info/video-background-loops/news-a-studio-loops/)
 
