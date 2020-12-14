@@ -32,6 +32,10 @@
 
 [year of the linux laptop](https://monadical.com/posts/moving-to-linux-desktop.html)
 
+[android backup](https://github.com/seedvault-app/seedvault)
+
+[quibble](https://github.com/maharmstone/quibble)
+
 ## Emulation
 
 [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
@@ -45,6 +49,14 @@
 [Switch NAND Save Extraction](https://old.reddit.com/r/SwitchHacks/comments/cxdi0o/extract_saves_from_nand_backup/)
 
 [Cheating in single-player Linux games](https://old.reddit.com/r/linux_gaming/comments/gpsp8f/cheating_in_singleplayer_linux_games/)
+
+[awesome-emulators](https://github.com/alnacle/awesome-emulators)
+
+[awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)
+
+[box86](https://github.com/ptitSeb/box86)
+
+[wine-portable-executable](https://github.com/Kron4ek/wine-portable-executable)
 
 ## Terminal
 
@@ -93,6 +105,8 @@
 [Minecraft Building Charts](https://imgur.com/a/0J5RoE1)
 
 [CS Modding](https://resources.cavestorymoddingcommunity.com/)
+
+[Minecraft on Android](https://github.com/PojavLauncherTeam/PojavLauncher)
 
 ## CS
 
