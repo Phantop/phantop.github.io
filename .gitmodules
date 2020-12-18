@@ -10,33 +10,16 @@
 [submodule "startpage"]
 	path = startpage
 	url = https://github.com/deepjyoti30/startpage
-[submodule "keeweb"]
-	path = keeweb
-	url = https://github.com/keeweb/keeweb
 [submodule "audiomass"]
 	path = audiomass
 	url = https://github.com/pkalogiros/audiomass
 [submodule "whereami"]
 	path = whereami
 	url = https://github.com/webdevbrian/whereami
-[submodule "wayland-book"]
-	path = wayland-book
-	url = https://git.sr.ht/~sircmpwn/wayland-book
-[submodule "source-library"]
-	path = source-library
-	url = https://github.com/NB419/source-library
-[submodule "lc3-vm"]
-	path = lc3-vm
-	url = https://github.com/justinmeiners/lc3-vm
-[submodule "degoogle"]
-	path = degoogle
-	url = https://github.com/tycrek/degoogle
-[submodule "awesome-piracy"]
-	path = awesome-piracy
-	url = https://github.com/Igglybuff/awesome-piracy
 [submodule "survival"]
 	path = survival
 	url = https://github.com/ligi/SurvivalManual.wiki.git
-[submodule "open-source-cs"]
-	path = open-source-cs
-	url = https://github.com/ForrestKnight/open-source-cs
+[submodule "keeweb"]
+	path = keeweb
+	url = https://github.com/keeweb/keeweb
+	branch = gh-pages

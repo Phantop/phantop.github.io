@@ -8,6 +8,8 @@
 
 [stow](https://stevenrbaker.com/tech/managing-dotfiles-with-gnu-stow.html)
 
+[wayland-book](https://wayland-book.com/)
+
 ## 3D Graphics
 
 [Learn OpenGL](https://learnopengl.com/)
@@ -25,8 +27,6 @@
 [server setup](https://www.codelitt.com/blog/my-first-10-minutes-on-a-server-primer-for-securing-ubuntu/)
 
 [driver and kernel dev books](http://jdebp.eu/FGA/operating-system-books.html)
-
-[multiple live ISOs](https://github.com/probonopd/SystemImageKit)
 
 [simple key remap](https://github.com/DavRack/skr)
 
@@ -50,13 +50,13 @@
 
 [Cheating in single-player Linux games](https://old.reddit.com/r/linux_gaming/comments/gpsp8f/cheating_in_singleplayer_linux_games/)
 
-[awesome-emulators](https://github.com/alnacle/awesome-emulators)
-
-[awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)
-
 [box86](https://github.com/ptitSeb/box86)
 
 [wine-portable-executable](https://github.com/Kron4ek/wine-portable-executable)
+
+[DOSBox Pure](https://github.com/schellingb/dosbox-pure)
+
+[Vulkan Emulators](https://teddit.net/r/emulation/comments/kixgn0/vulkan_in_emulation_2020/)
 
 ## Terminal
 
@@ -76,7 +76,7 @@
 
 [Working SPICE](https://reddit.com/r/linux/comments/asw4wk/to_all_you_virtmanager_and_spice_display_users/)
 
-### VFIO
+[Write your own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 
 [LookingGlass](https://www.reddit.com/r/linux/comments/8ay0ya/question_for_the_grey_beards_here_which_linux/dx2jhud/)
 
@@ -100,6 +100,8 @@
 
 [1MB Club](https://1mb.club/)
 
+[DeGoogle](https://github.com/tycrek/degoogle)
+
 ## Games
 
 [Minecraft Building Charts](https://imgur.com/a/0J5RoE1)
@@ -107,6 +109,10 @@
 [CS Modding](https://resources.cavestorymoddingcommunity.com/)
 
 [Minecraft on Android](https://github.com/PojavLauncherTeam/PojavLauncher)
+
+[awesome-emulators](https://github.com/alnacle/awesome-emulators)
+
+[awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)
 
 ## CS
 
@@ -117,3 +123,7 @@
 [Tour of Rust](https://tourofrust.com/)
 
 [Modern C](https://news.ycombinator.com/item?id=24361469)
+
+[Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
+
+[Open Source CS](https://github.com/ForrestKnight/open-source-cs)
