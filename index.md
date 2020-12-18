@@ -14,15 +14,9 @@
 
 [unixporn](reads/unixporn)
 
-[reddit](reads/reddit.md)
+[reddit](reads/reddit)
 
-[zach resources](reads/zachs-resources)
-
-[source library](source-library)
-
-[awesome-piracy](awesome-piracy/readme.md)
-
-[degoogle](degoogle/README.md)
+[video](reads/video)
 
 [keeweb](keeweb)
 
@@ -30,12 +24,10 @@
 
 [portal2](aperturescience/portal2)
 
-[brstm](brstm/index.html)
+[brstm](brstm)
 
 [audiomass](audiomass/src)
 
-[write a vm](lc3-vm/docs)
+[source library](https://nb419.github.io/source-library/)
 
-[survival-manual](survival/Home.md)
-
-[open-source-cs](open-source-cs/README.md)
+[survival-manual](survival/Home)
