@@ -114,6 +114,10 @@
 
 [awesome-emulators-simulators](https://github.com/mcicolella/awesome-emulators-simulators)
 
+[Archive Formats/Rust Smash](https://jam1.re/blog/extracting-files-from-an-archive-format-i-understand-way-too-much)
+
+[Chiptone](https://sfbgames.itch.io/chiptone)
+
 ## CS
 
 [Teach Yourself CS](https://teachyourselfcs.com/)
