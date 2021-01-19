@@ -58,6 +58,8 @@
 
 [Vulkan Emulators](https://teddit.net/r/emulation/comments/kixgn0/vulkan_in_emulation_2020/)
 
+[GBATEK/no$gba-dsi tech info](https://mgba-emu.github.io/gbatek/)
+
 ## Terminal
 
 [Learn Regex](https://github.com/zeeshanu/learn-regex)
@@ -117,6 +119,10 @@
 [Archive Formats/Rust Smash](https://jam1.re/blog/extracting-files-from-an-archive-format-i-understand-way-too-much)
 
 [Chiptone](https://sfbgames.itch.io/chiptone)
+
+[Awesome ACNH](https://github.com/skullface/awesome-acnh)
+
+[RinHara5aki BOTW](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc)
 
 ## CS
 
