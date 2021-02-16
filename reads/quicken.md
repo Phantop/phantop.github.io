@@ -1,6 +1,10 @@
 
 # Source: https://old.reddit.com/r/personalfinance/comments/c4mzfe/i_made_a_google_sheet_to_replace_quicken/
 
+[OpenTaxSolver](http://opentaxsolver.sourceforge.net/)
+
+[UsTaxes.org](https://github.com/thegrims/UsTaxes)
+
 disclaimer: This sheet has no script, no hidden cells, no hidden formula.
 
 Quicken user for 20+ yrs. 2 months ago, my 2016 Quicken was expiring and I decided to develop a spreadsheet to replace Quicken. My sheet has been working great for 2 months so I've decided to share with the public. Obviously, I had to remove my personal data. And I also removed several complex functions so that anyone can understand the core formulas and modify to suit their needs.
