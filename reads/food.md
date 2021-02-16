@@ -27,3 +27,7 @@
 [good reddit tacos](https://old.reddit.com/r/starterpacks/comments/gpk5s6/white_people_with_mexican_friends_taco_night/)
 
 [typesense db](https://recipe-search.typesense.org/)
+
+[grimgrains](https://grimgrains.com/site/home.html#recipes)
+
+[seitan](https://twitter.com/mooshortie/status/1363670068761153539)
