@@ -31,3 +31,5 @@
 [grimgrains](https://grimgrains.com/site/home.html#recipes)
 
 [seitan](https://twitter.com/mooshortie/status/1363670068761153539)
+
+[contrapoints noodles](https://hot-thai-kitchen.com/drunken-noodle/)
