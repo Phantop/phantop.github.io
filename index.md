@@ -28,6 +28,4 @@
 
 [audiomass](audiomass/src)
 
-[source library](https://nb419.github.io/source-library/)
-
 [survival-manual](survival/Home)
