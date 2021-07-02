@@ -104,6 +104,8 @@
 
 [DeGoogle](https://github.com/tycrek/degoogle)
 
+[Open source, experimental, and tiny tools roundup](https://github.com/everestpipkin/tools-list)
+
 ## Games
 
 [Minecraft Building Charts](https://imgur.com/a/0J5RoE1)
