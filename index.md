@@ -28,4 +28,6 @@
 
 [audiomass](audiomass/src)
 
+[laptop battery](reads/battery.md)
+
 [survival-manual](survival/Home)

@@ -70,6 +70,10 @@
 
 [Command Line Interface Guidelines](https://clig.dev/)
 
+[Compression Comparison](https://linuxreviews.org/Comparison_of_Compression_Algorithms)
+
+[Insane Compression Comparison](http://mattmahoney.net/dc/text.html)
+
 ## Qemu
 
 [Drew Devault's Getting Started](https://drewdevault.com/2018/09/10/Getting-started-with-qemu.html)
