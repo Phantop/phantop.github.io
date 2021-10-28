@@ -20,6 +20,8 @@
 
 [keeweb](keeweb)
 
+[wealth](wealth)
+
 [portal](aperturescience/portal)
 
 [portal2](aperturescience/portal2)

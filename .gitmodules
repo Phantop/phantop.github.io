@@ -23,3 +23,6 @@
 	path = keeweb
 	url = https://github.com/keeweb/keeweb
 	branch = gh-pages
+[submodule "wealth"]
+	path = wealth
+	url = https://github.com/MKorostoff/1-pixel-wealth
