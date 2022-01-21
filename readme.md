@@ -1,7 +1,5 @@
 # Some pages with some stuff in them:
 
-[trex](trex)
-
 [guides](reads/guides)
 
 [food](reads/food)
