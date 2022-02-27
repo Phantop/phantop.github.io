@@ -36,6 +36,10 @@
 
 [quibble](https://github.com/maharmstone/quibble)
 
+[rust os](https://os.phil-opp.com/)
+
+[osdev.org](https://wiki.osdev.org/Main_Page)
+
 ## Emulation
 
 [Project Based Tutorials in C](https://github.com/rby90/Project-Based-Tutorials-in-C)
@@ -145,3 +149,5 @@
 [Build Your Own X](https://github.com/danistefanovic/build-your-own-x)
 
 [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
+
+[nim](https://ssalewski.de/nimprogramming.html)

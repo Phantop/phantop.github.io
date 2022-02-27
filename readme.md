@@ -16,6 +16,8 @@
 
 [video](reads/video)
 
+[equality](reads/equality)
+
 [keeweb](keeweb)
 
 [wealth](wealth)
