@@ -1,5 +1,4 @@
-# Senate Judiciary Committee Holds Hearing on LGBTQ Rights Legislation (MARCH 17, 2021)
-## [Senate Judiciary Website](https://www.judiciary.senate.gov/meetings/the-equality-act-lgbtq-rights-are-human-rights)
+# [Senate Judiciary Committee Holds Hearing on LGBTQ Rights Legislation (MARCH 17, 2021)](https://www.judiciary.senate.gov/meetings/the-equality-act-lgbtq-rights-are-human-rights)
 Take anything said by a congressperson with a grain of salt. It's not the witness testimony in the same way as what is said by the 5 witnesses (though only really is Mr. David a worthwile expert)
 I highly suggest checking out Alfonso David's testimony, written and spoken, and his answers to questions.
 
@@ -21,8 +20,7 @@ He's also one of the only senators to only ask questions rather than wax on abou
 - 2013: SCOTUS strikes down DOMA
 - 2017: Trump bans transgender military service
 - 2020: SCOTUS held that title VII of the Civil Rights Act bars firing someone for being LGBT
-- 2020 study found that 1/3 LGBT Americans, 3/5 trans, experienced discrimination in that last year
-    - https://www.americanprogress.org/article/state-lgbtq-community-2020/
+- [2020 study found that 1/3 LGBT Americans, 3/5 trans, experienced discrimination in that last year](https://www.americanprogress.org/article/state-lgbtq-community-2020/)
 
 ## Religious Freedom Arguments (Provided by Sen. James Lankford, R-OK)
 - 1990: SCOTUS decision of Employment Division vs. Smith
@@ -38,8 +36,8 @@ He's also one of the only senators to only ask questions rather than wax on abou
 - 2020, Duke Law School professor Doriane Coleman testified before the committee
     - Regarding women's athletics, looked at 3 female athletes who won Team USA gold medals
     - Compared with thousands of "2nd tier" male atheletes
-    - Sex in Sport: https://scholarship.law.duke.edu/lcp/vol80/iss4/5/
-    - She says in an article and in parts of that paper that HRT should mean being allowed to participate: https://www.newsobserver.com/opinion/article250396106.html
+    - [Sex in Sport](https://scholarship.law.duke.edu/lcp/vol80/iss4/5/)
+    - [She says in an article and in parts of that paper that HRT should mean being allowed to participate](https://www.newsobserver.com/opinion/article250396106.html)
     - Tone of the text toes the line with some transphobic rhetoric but it doesn't seem to be making an argument for exclusion when HRT is involved?
     - Seems to run a lot on the "gender identity" aspect and kinda just ignores HRT? Decently about intersex women with elevated T.
 
@@ -66,8 +64,7 @@ He's also one of the only senators to only ask questions rather than wax on abou
 - "Drafted with an agenda and not to rectify seeming inequality in civil rights laws..."
     - Female athletics!!!
     - Testimony from four female students is included in the record... which I have no idea how to access
-    - https://adflegal.org/blog/i-was-fastest-girl-connecticut-transgender-athletes-made-it-unfair-fight
-    - Not necessaily the same document but by those girls
+    - [Not necessaily the same document but by those girls](https://adflegal.org/blog/i-was-fastest-girl-connecticut-transgender-athletes-made-it-unfair-fight)
 
 ## Rep. Marie Newman D-IL
 - That one rep with a trans daughter, who she spends her time talking about
@@ -78,15 +75,13 @@ He's also one of the only senators to only ask questions rather than wax on abou
 
 ## Alfonso David, President of the Human Rights Campaign
 - [Opening arguments](https://www.judiciary.senate.gov/imo/media/doc/Written%20Testimony%20of%20Alphonso%20David%203_15_2021.pdf)
-    - 1 in 3 LGBTQ and 3 in 5 trans Americans experience discrimination
-        - https://www.americanprogress.org/article/state-lgbtq-community-2020/
+    - [1 in 3 LGBTQ and 3 in 5 trans Americans experience discrimination](https://www.americanprogress.org/article/state-lgbtq-community-2020/)
     - Written copy has a few sources on housing discrimination, denial of service
     - **Vocal opening arguments discuss continued discrimination felt by people of color and the failings of the original Civil Rights Act**
         - The addition of the definition of public entities thus is just as impactful for these groups as it is for LGBTQ people
     - Page 6 on the Virginia Values Act, it is the first southern state to implement comprehensive LGBTQ protections
         - Only 22 states have statutory exmployment nondiscrimination protections of LGBTQ people
-    - Provides a source for high percentage of support for these laws
-        - https://www.prri.org/spotlight/americans-are-broadly-supportive-of-a-variety-of-lgbtq-rights/
+    - [Provides a source for high percentage of support for these laws](https://www.prri.org/spotlight/americans-are-broadly-supportive-of-a-variety-of-lgbtq-rights/)
     - Written text argues that the government has a compelling interest to limit RFRA applicability in order to eliminate discrimination
         - RFRA has been used to justify firing trans people, see page 16
         - The RFRA "is not to be used as a sword to impose religious beliefs on others but instead a shield against discrimination" (Resonse to Coons, 2:01:00)
@@ -122,14 +117,12 @@ He's also one of the only senators to only ask questions rather than wax on abou
         - Jury service: gay men can be dismissed with no protections from federal law
         - Taking an Uber or Lyft in states without protection: you can get kicked out of the vehicle without recourse
         - Visiting a store: no recourse for any discrimination under federal law that happens there
-    - She mentions the Business Coalition for the Equality Act, made of 388 employers
+    - She mentions the [Business Coalition for the Equality Act](https://www.hrc.org/resources/business-coalition-for-equality), made of 388 employers
         - Including 3M, General Mills, Delta, Nike, Target
         - Collective $6.4 trillion revenue and employs 13.5 million US workers
     - Why does this coalition exist? Why do businesses support this?
         - Solving discrimination helps the employees get their work done; it helps the bottom line
-        - Note from me: highly likely that they have given money to anti-LGBTQ lawmakers, though: 
-            - https://www.hrc.org/resources/business-coalition-for-equality
-            - https://popular.info/p/florida-politicians-behind-dont-say
+        - Note from me: [highly likely that they have given money to anti-LGBTQ lawmakers, though](https://popular.info/p/florida-politicians-behind-dont-say)
             - Just looking through, at least Duke Energy and AT&T have and are in the coalition
     - Queer people overall are 30% more like to have lost their jobs due to COVID. LGBTQ POC are 70% more likely. Why the difference?
         - David: Trans people have almost 3x the general unemployment rate
@@ -154,9 +147,8 @@ He's also one of the only senators to only ask questions rather than wax on abou
     - She sources herself on this part!!!!: Even prominent gender therapists attest [i], that people can be on a “gender journey” and identify as one thing one day and another the next.
     - On the women's prison thing, uses a single source with only anonymous employee claims with no formal backing
     - SHE FUCKING CLAIMS THIS: "One of the inmates raped a female in the women’s prison upon arrival. [ii]" AND THE ARTICLE IS ABOUT A TRANS WOMAN BEING RAPED WHEN FORCED WITH A CIS MAN
-        - Another article *is* what she claims but she just put something contradicting her in her source I can't even: https://news.wttw.com/2020/02/19/lawsuit-female-prisoner-says-she-was-raped-transgender-inmate
-        - And that article has the Department of Corrections claiming that it was a false complaint and the sex was consensual but it *is* the US penal system so take that with a grain of salt
-        - https://www.freep.com/story/news/local/michigan/detroit/2021/03/03/transgender-female-prisoner-forced-bunk-rapist-and-got-raped/6894034002/
+        - [Another article *is* what she claims but she just put something contradicting her in her source I can't even](https://news.wttw.com/2020/02/19/lawsuit-female-prisoner-says-she-was-raped-transgender-inmate)
+        - [And that article has the Department of Corrections claiming that it was a false complaint and the sex was consensual but it *is* the US penal system so take that with a grain of salt](https://www.freep.com/story/news/local/michigan/detroit/2021/03/03/transgender-female-prisoner-forced-bunk-rapist-and-got-raped/6894034002/)
     - For physical difference arguments, once again sources something comparing cis men and women, not trans and cis women
 - Asked by Grassley about sports, and I just realized they don't have a medical doctor here to discuss puberty, hormones, and whatnot (1:35:00)
     - The Equality Act does not override medical requirements for athletics but they keep acting like it does
@@ -168,8 +160,7 @@ He's also one of the only senators to only ask questions rather than wax on abou
 ## Mary Rice Hanson, fellow at the Ethics and Public Policy Center
 - [Opening arguments](https://www.judiciary.senate.gov/imo/media/doc/Testimony%20Mary%20Hasson%20EA%20Judiciary%203.17.2021%20FINAL.pdf)
     - Sex matters, imposing an ideology of identity, yadda yadda yadda 
-    - Alexis Lightcap shocked to see a boy in the bathroom and the school didn't listen and then sued and lost
-        - https://adflegal.org/client-story/alexis-lightcap
+    - [Alexis Lightcap shocked to see a boy in the bathroom and the school didn't listen and then sued and lost](https://adflegal.org/client-story/alexis-lightcap)
         - Reading this like... is this trans girl washing her hands the same as seeing you peeing?
     - They keep trying to have it both ways arguing the religious freedom shit and that harming women stuff
     - Religious schools that give Pell grants will stop if they have to help trans kids because it violates their beliefs so deeply
@@ -225,8 +216,8 @@ He's also one of the only senators to only ask questions rather than wax on abou
         - Real governor of Texas blaming the Green New Deal for the 2021 power outages energy here; the bill isn't law idiot!
     - "Let me ask you, as an expert" to Abigail Shrier, lady who conveniently is not an expert
         - Shrier claims that 13/14 championship titles in CT in girls sports track in 2019 were taken by just two high school "biological boys".
-            - https://www.athletic.net/TrackAndField/Division/Event.aspx?DivID=103101&Event=46
-            - At least one of the girls wass not on HRT, reportedly due to financial barriers: https://en.wikipedia.org/wiki/Andraya_Yearwood
+            - [Some Googling shows this results page as a source](https://www.athletic.net/TrackAndField/Division/Event.aspx?DivID=103101&Event=46)
+            - [At least one of the girls wass not on HRT, reportedly due to financial barriers](https://en.wikipedia.org/wiki/Andraya_Yearwood)
             - This is I think actually a fairish claim. Hormones do, in fact, do stuff and we need to like recognize that?
             - I wish this conversation could instead be about how some trans folks don't want HRT and how we're going to handle that in these situations
             - Connecticut Interscholastic Athletic Conference (CIAC) does not reqiure HRT. A Daily Caller article said ABC said they have, though they may not have been on for long at the time of these 2019 claims
@@ -238,7 +229,7 @@ He's also one of the only senators to only ask questions rather than wax on abou
         - Reminder that this is happening without the act and is due to states not considering HRT in their laws, something that is not the fault of trans people
     - Kennedy: "Would the man [...] be required to take chemicals to block his masculinity?" Shrier: No
         - What I'm noticing here is, due to its connection with education, this is a state level issue
-            - https://www.ncaa.org/sports/2022/1/27/transgender-participation-policy.aspx (College level requires HRT, because the organization decided this)
+            - [College level requires HRT, because the organization decided this](https://www.ncaa.org/sports/2022/1/27/transgender-participation-policy.aspx)
     - Would the bill force trans kids to take HRT (maybe in the context of athletics, it's unclear) (3:08:30)
         - Shrier: Uhh I don't know but it seems like it would make it "difficult for parents to exercise their own judgement"
         - Shrier: "There will be more danger of coming under pressure and the possibility of losing custody"
