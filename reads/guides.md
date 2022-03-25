@@ -20,6 +20,8 @@
 
 [Limit Framerate](https://gitlab.com/torkel104/libstrangle)
 
+[tinygraphics](https://github.com/ssloy)
+
 ## Operating Systems
 
 [os-tutorial](https://github.com/cfenollosa/os-tutorial)
