@@ -153,3 +153,13 @@
 [Open Source CS](https://github.com/ForrestKnight/open-source-cs)
 
 [nim](https://ssalewski.de/nimprogramming.html)
+
+## Sites
+
+[nix fly static hosting](https://mat.services/posts/static-site-with-nix-and-caddy/)
+
+[email hosting is easier and harder](https://vadosware.io/post/its-never-been-easier-or-harder-to-self-host-email/)
+
+[nixos mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver)
+
+[static hosting hurdles](https://notes.volution.ro/v1/2022/09/notes/b08118d8/)
