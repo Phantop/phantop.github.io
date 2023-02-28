@@ -1,4 +1,4 @@
-:root {
+body {
     background: repeating-linear-gradient(to bottom,
     #5bcefa 000px, #5bcefa 150px,
     #f5a9b8 150px, #f5a9b8 300px, 
@@ -21,7 +21,7 @@ body > div{
 }
 
 @media (prefers-color-scheme: dark) {
-    :root {
+    body {
         background: repeating-linear-gradient(to bottom,
         #D70071 000px, #D70071 300px,
         #9C4E97 300px, #9C4E97 450px, 

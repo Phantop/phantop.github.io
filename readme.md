@@ -18,6 +18,8 @@
 
 [equality](reads/equality)
 
+[hibari](hibari)
+
 [keeweb](keeweb)
 
 [wealth](wealth)
