@@ -1,0 +1,35 @@
+:root {
+    background: repeating-linear-gradient(to bottom,
+    #5bcefa 000px, #5bcefa 150px,
+    #f5a9b8 150px, #f5a9b8 300px, 
+    #ffffff 300px, #ffffff 450px,
+    #f5a9b8 450px, #f5a9b8 600px);
+}
+
+a { color: rgba(0, 0, 0, 0.7); }
+a:focus, a:hover { color: rgba(0, 0, 0, 0.6); }
+
+body > div{
+    background-color: #fafafa;
+    border-radius: 20px;
+    border-style: dashed;
+    color: #333;
+    margin: auto;
+    max-width: 800px;
+    overflow: auto;
+    padding: 20px;
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        background: repeating-linear-gradient(to bottom,
+        #D70071 000px, #D70071 300px,
+        #9C4E97 300px, #9C4E97 450px, 
+        #0035AA 450px, #0035AA 750px);
+    }
+
+    a { color: rgba(255, 255, 255, 0.8); }
+    a:focus, a:hover { color: rgba(255, 255, 255, 0.6); }
+
+    body > div { background-color: #050505; color: #FFF; }
+}
