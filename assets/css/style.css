@@ -1,3 +1,7 @@
+html {
+    min-height: 100%
+}
+
 body {
     background: repeating-linear-gradient(to bottom,
     #5bcefa 000px, #5bcefa 150px,
