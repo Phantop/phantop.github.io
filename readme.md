@@ -18,9 +18,11 @@
 
 [equality](reads/equality)
 
-[hibari](hibari)
+[writes](writes)
 
 [keeweb](keeweb)
+
+[gttr](gttr)
 
 [wealth](wealth)
 

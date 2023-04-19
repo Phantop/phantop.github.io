@@ -18,6 +18,7 @@ body > div{
     border-radius: 20px;
     border-style: dashed;
     color: #333;
+    font-family: monospace;
     margin: auto;
     max-width: 800px;
     overflow: auto;

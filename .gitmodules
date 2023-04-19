@@ -29,3 +29,6 @@
 [submodule "quatalog"]
 	path = quatalog
 	url = https://github.com/quatalog/site
+[submodule "gtrr"]
+	path = gtrr
+	url = https://github.com/artemislena/gtrr
