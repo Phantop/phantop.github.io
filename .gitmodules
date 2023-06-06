@@ -32,3 +32,6 @@
 [submodule "gtrr"]
 	path = gtrr
 	url = https://github.com/artemislena/gtrr
+[submodule "relax"]
+	path = relax
+	url = https://github.com/dbis-uibk/relax
