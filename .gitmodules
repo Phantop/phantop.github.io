@@ -35,3 +35,6 @@
 [submodule "relax"]
 	path = relax
 	url = https://github.com/dbis-uibk/relax
+[submodule "osdev"]
+	path = osdev
+	url = https://github.com/firasuke/awesome
