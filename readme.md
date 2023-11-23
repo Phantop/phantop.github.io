@@ -22,7 +22,7 @@
 
 [keeweb](keeweb)
 
-[gttr](gttr)
+[gtrr](gtrr)
 
 [wealth](wealth)
 
