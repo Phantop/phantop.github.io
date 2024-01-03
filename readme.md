@@ -18,8 +18,6 @@
 
 [equality](reads/equality)
 
-[writes](writes)
-
 [keeweb](keeweb)
 
 [gtrr](gtrr)
@@ -37,3 +35,5 @@
 [laptop battery](reads/battery.md)
 
 [survival-manual](survival/Home)
+
+[movie-web](movie-web)
