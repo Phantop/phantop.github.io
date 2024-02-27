@@ -38,3 +38,6 @@
 [submodule "osdev"]
 	path = osdev
 	url = https://github.com/firasuke/awesome
+[submodule "totk"]
+	path = totk
+	url = https://github.com/The5thTear/TOTK-ModForge
