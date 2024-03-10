@@ -35,5 +35,3 @@
 [laptop battery](reads/battery.md)
 
 [survival-manual](survival/Home)
-
-[movie-web](movie-web)
