@@ -1,0 +1,28 @@
+div {
+    border-radius: 1.5em;
+    border: mediumpurple solid;
+    display: inline-flex;
+    margin: .2em;
+    margin-bottom: 1em;
+    margin-right: .8em;
+}
+div * {
+    font-size: 4em;
+    height: 1em;
+    padding: .3em;
+}
+a, html, body {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+a {
+    display: block;
+    padding: 1em;
+    padding-top: 2em;
+    text-decoration: inherit;
+}
