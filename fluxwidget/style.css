@@ -2,9 +2,8 @@ div {
     border-radius: 1.5em;
     border: mediumpurple solid;
     display: inline-flex;
-    margin: .2em;
     margin-bottom: 1em;
-    margin-right: .8em;
+    margin-right: .6em;
 }
 div * {
     font-size: 4em;
@@ -22,7 +21,7 @@ a, html, body {
 }
 a {
     display: block;
-    padding: 1em;
+    padding-left: 1em;
     padding-top: 2em;
     text-decoration: inherit;
 }

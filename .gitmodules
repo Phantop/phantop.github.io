@@ -23,9 +23,6 @@
 	path = keeweb
 	url = https://github.com/keeweb/keeweb
 	branch = gh-pages
-[submodule "wealth"]
-	path = wealth
-	url = https://github.com/MKorostoff/1-pixel-wealth
 [submodule "quatalog"]
 	path = quatalog
 	url = https://github.com/quatalog/site
@@ -41,3 +38,6 @@
 [submodule "totk"]
 	path = totk
 	url = https://github.com/The5thTear/TOTK-ModForge
+[submodule "wealth"]
+	path = wealth
+	url = https://github.com/dbkrupp/1-pixel-wealth
