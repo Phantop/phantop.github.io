@@ -23,7 +23,8 @@ window.onload = async function run() {
     const img = document.createElement("img")
     const num = document.createElement("b")
     img.src = `data:${icon.data}`
-    num.textContent = count
+    if (count < 10) { num.textContent = count }
+    else { num.textContent = String.fromCharCode(count + 55) }
     container.appendChild(img)
     container.appendChild(num)
     link.appendChild(container)
