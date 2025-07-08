@@ -1,27 +1,31 @@
-div {
-    border-radius: 1.5em;
-    border: mediumpurple solid;
-    display: inline-flex;
-    margin-bottom: 1em;
-    margin-right: .6em;
-}
-div * {
-    font-size: 4em;
-    height: 1em;
-    padding: .3em;
-}
-a, html, body {
+body {
     background-color: black;
-    color: white;
-    font-family: monospace;
     height: 100%;
     margin: 0;
     padding: 0;
     width: 100%;
 }
-a {
+body > a {
     display: block;
-    padding-left: 1em;
-    padding-top: 2em;
+    height: 100%;
+    margin-top: 1em;
+    margin-left: .6em;
+}
+div {
+    display: inline-flex;
+    margin-top: 1em;
+    margin-left: .6em;
+}
+div > a {
+    border-radius: 1.5em;
+    border: mediumpurple solid;
+    color: white;
+    font-family: monospace;
+    display: inherit;
     text-decoration: inherit;
+}
+div > a * {
+    font-size: 4em;
+    height: 1em;
+    padding: .3em;
 }

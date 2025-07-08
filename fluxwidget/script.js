@@ -20,13 +20,16 @@ window.onload = async function run() {
   for (const [id, count] of unreads) {
     const icon = await api(url, key, `feeds/${id}/icon`)
     const container = document.createElement("div")
+    const feedLink = document.createElement("a")
+    feedLink.href = `${url}/feed/${id}/entries`
     const img = document.createElement("img")
     const num = document.createElement("b")
     img.src = `data:${icon.data}`
     if (count < 10) { num.textContent = count }
     else { num.textContent = String.fromCharCode(count + 55) }
-    container.appendChild(img)
-    container.appendChild(num)
+    feedLink.appendChild(img)
+    feedLink.appendChild(num)
+    container.appendChild(feedLink)
     link.appendChild(container)
   }
 }
