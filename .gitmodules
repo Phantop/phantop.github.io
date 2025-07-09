@@ -41,3 +41,10 @@
 [submodule "wealth"]
 	path = wealth
 	url = https://github.com/dbkrupp/1-pixel-wealth
+[submodule "webby"]
+	path = webby
+	url = https://github.com/soapdog/little-webby-press
+[submodule "mapvania"]
+	path = mapvania
+	url = https://github.com/hlorenzi/mapvania
+	branch = ghpages
