@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dynamic YouTube Embed</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            overflow: hidden;
+            background-color: #000;
+        }
+        #player-container {
+            width: 100vw;
+            height: 100vh;
+        }
+        iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+        .error-msg {
+            color: white;
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="player-container">
+        </div>
+
+    <script>
+        function getEmbed() {
+            // 1. Get the 'v' parameter from the URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const videoId = urlParams.get('v');
+            const container = document.getElementById('player-container');
+
+            if (videoId) {
+                // 2. Create the iframe element
+                const iframe = document.createElement('iframe');
+                
+                // Construct the embed URL with common parameters
+                // autoplay=1 (requires user interaction/browser permission)
+                // rel=0 (shows related videos from the same channel)
+                iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`;
+                
+                iframe.allow = "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share";
+                iframe.referrerpolicy = "strict-origin-when-cross-origin";
+                iframe.allowFullscreen = true;
+
+                container.appendChild(iframe);
+            } else {
+                // 3. Fallback if no ID is provided
+                container.innerHTML = `
+                    <div class="error-msg">
+                        <h1>No Video ID Provided</h1>
+                        <p>Add <b>?v=VIDEO_ID</b> to your URL.</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Run on load
+        window.onload = getEmbed;
+    </script>
+</body>
+</html>
