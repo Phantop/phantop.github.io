@@ -38,9 +38,6 @@
 [submodule "totk"]
 	path = totk
 	url = https://github.com/The5thTear/TOTK-ModForge
-[submodule "wealth"]
-	path = wealth
-	url = https://github.com/dbkrupp/1-pixel-wealth
 [submodule "webby"]
 	path = webby
 	url = https://github.com/soapdog/little-webby-press
