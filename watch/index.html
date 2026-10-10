@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic YouTube Embed</title>
+    <link rel="icon" href="https://www.youtube.com/favicon.ico">
     <style>
         body, html {
             margin: 0;
@@ -46,6 +47,22 @@
             const container = document.getElementById('player-container');
 
             if (videoId) {
+                // Use YouTube's oEmbed endpoint to retrieve the video's title.
+                const videoUrl = `https://www.youtube.com/watch?v=${encodeURIComponent(videoId)}`;
+                fetch(`https://www.youtube.com/oembed?url=${encodeURIComponent(videoUrl)}&format=json`)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Could not retrieve video details');
+                        }
+                        return response.json();
+                    })
+                    .then(video => {
+                        if (video.title) {
+                            document.title = `${video.title} - YouTube`;
+                        }
+                    })
+                    .catch(error => console.error('Unable to get video title:', error));
+
                 // 2. Create the iframe element
                 const iframe = document.createElement('iframe');
                 
